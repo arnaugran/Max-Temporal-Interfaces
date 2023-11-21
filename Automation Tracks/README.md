@@ -1,1 +1,5 @@
+# Automate variables in Max
 
+This patch is designed to replicate certain functionalities found in traditional Digital Audio Workstations. With this tool, you can create automation curves to control variables within your patch. The primary goal is to facilitate a clear distinction between the processes of crafting an instrument and composing for it. By doing so, once your coding is complete, you can conveniently choose the parameters you wish to modulate, organize them in a dedicated window, and compose with a temporal perspective.
+
+You have two ways of including this object in your own patches : include the folder called Library inside the Library of Max or copy the two files included in this folder and paste them in the same folder than your main patch. In order to work properly with this object, check the Example folder and copy the marked module with the necessary setup. This example patch also shows how to properly name your objects (script name) in order to be detected by the automation tracks patch.
