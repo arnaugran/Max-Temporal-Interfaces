@@ -1,0 +1,3 @@
+# Timeline graphical interface for message control in Max
+
+This "timeline" object aims to address the problem of simple temporal writing in Max. This problem can be summarized in two parts. The first part relates to how the evolution of a sound parameter is written throughout a composition. The second part concerns how this evolution can be easily observed to understand the overall structure and write multiple parameters simultaneously. This approach to temporality in Max is radically different from sending messages that control parameters at a specific moment. It involves transitioning from an instantaneous version of time, capturing specific moments, to a more global perspective.
