@@ -1,2 +1,2 @@
 # Max-Temporal-Interfaces
-Max JSUI Codes, for a better time control when composing.
+Patchers and JSUI Codes for a better time control when composing inside MaxMSP.
